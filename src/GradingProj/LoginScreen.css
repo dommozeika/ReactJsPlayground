@@ -1,0 +1,20 @@
+.App {
+    text-align: center;
+    margin:0;
+}
+.Body {
+    padding: 20px;
+    height: 90vh;
+    background-color: black;
+}
+.title {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.loginForm {
+    justify-content: space-around;
+    justify-items: stretch;
+}
+label{
+    text-align: left;
+}
