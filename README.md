@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npx json-server -w data/db.json -p 3500`
+
+Runs JSON server for DB on port 3500.
+Created with axios and connected in api/todosApi.js
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
